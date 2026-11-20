@@ -5,7 +5,7 @@
         android:allowBackup="true"
         android:label="دفتر المشتريات الذكي"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SmartPurchases">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
             android:name=".MainActivity"
